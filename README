@@ -1,0 +1,7 @@
+Hello,
+
+   This is a module for use as a bridge between pack/unpack and read/write. It contains a function called sizeof_pack_string which can be used to find the byte size of a pack string.
+
+Installation :
+
+  copy the .pm file given into the perl site directory. Working on a Makefile.PL for version 1.00.
